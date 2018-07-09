@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# README
 
-Things you may want to cover:
+* Ruby version - 2.4.2
 
-* Ruby version
+* bundle install - bundle exec rspec spec
 
-* System dependencies
+* rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* test urls
+  - http://localhost:3000/api/v1/opinions?opinion=would-gun-control-be-helpful-at-all
+  - http://localhost:3000/api/v1/opinions?opinion=should-children-have-homework
+  - http://localhost:3000/api/v1/opinions?opinion=for-fulfillment-of-high-ambition-mental-physical-pressure-on-children-is-not-a-obstruction-in-their-development
+  - http://localhost:3000/api/v1/opinions?opinion=bad-url

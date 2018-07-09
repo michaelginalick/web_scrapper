@@ -1,7 +1,5 @@
 # README
 
-# README
-
 * Ruby version - 2.4.2
 
 * bundle install - bundle exec rspec spec
